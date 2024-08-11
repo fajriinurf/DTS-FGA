@@ -17,8 +17,8 @@ The application is designed to data analyst. Tkinter was chosen as the primary G
 
 ## Purpose
 The primary purposes of this project are:
-Provide an accessible platform for data analysis: This application is designed to make it easy for users to analyze data without requiring deep technical knowledge.
-Integrate multiple functionalities: The application integrates various functions such as data management, visualization, machine learning, and reporting into a single interface.
+- Provide an accessible platform for data analysis: This application is designed to make it easy for users to analyze data without requiring deep technical knowledge.
+- Integrate multiple functionalities: The application integrates various functions such as data management, visualization, machine learning, and reporting into a single interface.
 
 ## Installation
 To run this application, make sure you have Python installed. You can then clone the repository and install the necessary dependencies:
