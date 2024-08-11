@@ -6,7 +6,7 @@ By Fajri Nurfauzan this clone from Github Fajrinurf the account is flaged,
 This project was developed as part of my final assignment for the Digital Talent Scholarship (DTS) program. The main objective of this project is to create a desktop application using Python's Tkinter library.
 
 ## About the Project
-The application is designed to [provide a brief description of the application's functionality, e.g., manage tasks, organize data, etc.]. Tkinter was chosen as the primary GUI toolkit due to its simplicity and effectiveness in creating desktop applications in Python.
+The application is designed to data analyst. Tkinter was chosen as the primary GUI toolkit due to its simplicity and effectiveness in creating desktop applications in Python.
 
 ## Features
 - Manajemen Data: CRUD operations on datasets.
