@@ -1,6 +1,6 @@
 # Final Project for Digital Talent Scholarship (DTS)
 
-By Fajri Nurfauzan this clone from Github Fajrinurf the account is flaged,
+By Fajri Nurfauzan this clone from Github fajrinurf the account is flaged,
 
 ## Project Overview
 This project was developed as part of my final assignment for the Digital Talent Scholarship (DTS) program. The main objective of this project is to create a desktop application using Python's Tkinter library.
